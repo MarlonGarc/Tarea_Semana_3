@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Tarea No.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E85B9F4-B3FB-4879-B93F-E4C6BE6D53E4}|..\\Calcular_Area\\Calcular_Area.csproj|c:\\users\\lenovo loq\\documents\\programas git\\calcular_area\\area_figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E90A9D-4EBC-49E5-8DD1-7C0BDC3A4EB5}|..\\Prestamo\\Prestamo.csproj|c:\\users\\lenovo loq\\documents\\programas git\\prestamo\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9B1597-46E5-46ED-863A-E216E3686C93}|..\\NumeroPar_Impar\\NumeroPar_Impar.csproj|c:\\users\\lenovo loq\\documents\\programas git\\numeropar_impar\\numeropar_impar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B66D955-3181-4130-A723-774D8D62F6F9}|..\\Usuario\u0026Contrase\u00F1a\\Usuario\u0026Contrase\u00F1a.csproj|c:\\users\\lenovo loq\\documents\\programas git\\usuario\u0026contrase\u00F1a\\usuario\u0026contra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB319E1D-013F-4BF5-ADE4-57E0B7F20C9C}|Tarea No.3.csproj|c:\\users\\lenovo loq\\documents\\programas git\\tarea no.3\\calcula 3 numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB319E1D-013F-4BF5-ADE4-57E0B7F20C9C}|Tarea No.3.csproj|solutionrelative:calcula 3 numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD07CB-3D0E-4F46-A2D7-982E2B5123EF}|..\\Calcula Precio\\Calcula Precio.csproj|c:\\users\\lenovo loq\\documents\\programas git\\calcula precio\\calcula precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B18C9AF-7B36-436E-B306-8B0F845B9AD1}|..\\Validar Edad\\Validar Edad.csproj|c:\\users\\lenovo loq\\documents\\programas git\\validar edad\\validar edad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calcula 3 Numeros.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Tarea No.3\\Calcula 3 Numeros.cs",
+              "RelativeDocumentMoniker": "Calcula 3 Numeros.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Tarea No.3\\Calcula 3 Numeros.cs",
+              "RelativeToolTip": "Calcula 3 Numeros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T03:24:02.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validar Edad.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Validar Edad\\Validar Edad.cs",
+              "RelativeDocumentMoniker": "..\\Validar Edad\\Validar Edad.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Validar Edad\\Validar Edad.cs",
+              "RelativeToolTip": "..\\Validar Edad\\Validar Edad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T07:58:24.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calcula Precio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Calcula Precio\\Calcula Precio.cs",
+              "RelativeDocumentMoniker": "..\\Calcula Precio\\Calcula Precio.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Calcula Precio\\Calcula Precio.cs",
+              "RelativeToolTip": "..\\Calcula Precio\\Calcula Precio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:04:50.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario\u0026Contra.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Usuario\u0026Contrase\u00F1a\\Usuario\u0026Contra.cs",
+              "RelativeDocumentMoniker": "..\\Usuario\u0026Contrase\u00F1a\\Usuario\u0026Contra.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Usuario\u0026Contrase\u00F1a\\Usuario\u0026Contra.cs",
+              "RelativeToolTip": "..\\Usuario\u0026Contrase\u00F1a\\Usuario\u0026Contra.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:43:27.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumeroPar_Impar.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\NumeroPar_Impar\\NumeroPar_Impar.cs",
+              "RelativeDocumentMoniker": "..\\NumeroPar_Impar\\NumeroPar_Impar.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\NumeroPar_Impar\\NumeroPar_Impar.cs",
+              "RelativeToolTip": "..\\NumeroPar_Impar\\NumeroPar_Impar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:12:44.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Prestamo\\Prestamo.cs",
+              "RelativeDocumentMoniker": "..\\Prestamo\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Prestamo\\Prestamo.cs",
+              "RelativeToolTip": "..\\Prestamo\\Prestamo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:21:18.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Area_Figuras.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Calcular_Area\\Area_Figuras.cs",
+              "RelativeDocumentMoniker": "..\\Calcular_Area\\Area_Figuras.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Calcular_Area\\Area_Figuras.cs",
+              "RelativeToolTip": "..\\Calcular_Area\\Area_Figuras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:29:18.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
