@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validar Edad", "..\Validar 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calcula Precio", "..\Calcula Precio\Calcula Precio.csproj", "{98AD07CB-3D0E-4F46-A2D7-982E2B5123EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usuario&Contraseña", "..\Usuario&Contraseña\Usuario&Contraseña.csproj", "{8B66D955-3181-4130-A723-774D8D62F6F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Usuario&Contraseña", "..\Usuario&Contraseña\Usuario&Contraseña.csproj", "{8B66D955-3181-4130-A723-774D8D62F6F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeroPar_Impar", "..\NumeroPar_Impar\NumeroPar_Impar.csproj", "{CD9B1597-46E5-46ED-863A-E216E3686C93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumeroPar_Impar", "..\NumeroPar_Impar\NumeroPar_Impar.csproj", "{CD9B1597-46E5-46ED-863A-E216E3686C93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prestamo", "..\Prestamo\Prestamo.csproj", "{B8E90A9D-4EBC-49E5-8DD1-7C0BDC3A4EB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prestamo", "..\Prestamo\Prestamo.csproj", "{B8E90A9D-4EBC-49E5-8DD1-7C0BDC3A4EB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular_Area", "..\Calcular_Area\Calcular_Area.csproj", "{0E85B9F4-B3FB-4879-B93F-E4C6BE6D53E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calcular_Area", "..\Calcular_Area\Calcular_Area.csproj", "{0E85B9F4-B3FB-4879-B93F-E4C6BE6D53E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios Switch", "..\Ejercicios Swich\Ejercicios Switch.csproj", "{00A46E60-BE5E-41FD-8FDA-78D7A1105FE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0E85B9F4-B3FB-4879-B93F-E4C6BE6D53E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E85B9F4-B3FB-4879-B93F-E4C6BE6D53E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E85B9F4-B3FB-4879-B93F-E4C6BE6D53E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A46E60-BE5E-41FD-8FDA-78D7A1105FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A46E60-BE5E-41FD-8FDA-78D7A1105FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A46E60-BE5E-41FD-8FDA-78D7A1105FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A46E60-BE5E-41FD-8FDA-78D7A1105FE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
